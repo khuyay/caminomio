@@ -1,125 +1,154 @@
-* COURSERA:
+ACADEMIC:
 
-** Data science
+** Coursera
 
-*** Programa Especializado - Introduction to Applied Data Science:
+*** Data science
+
+- Programa Especializado - Introduction to Applied Data Science:
 
 https://www.coursera.org/specializations/introduction-applied-data-science#pricing
 
-*** Programa Especializado - Applied Data Science
+- Programa Especializado - Applied Data Science
 
 https://www.coursera.org/specializations/applied-data-science
 
-*** Deep Learning Specialization
+- Deep Learning Specialization
 
 https://www.coursera.org/specializations/deep-learning
 
-*** Programa Especializado - Advanced Machine Learning
+- Programa Especializado - Advanced Machine Learning
 
 https://www.coursera.org/specializations/aml
 
-** Cloud computing
+*** Cloud computing
 
-*** Programa Especializado - IBM Microservices
+- Programa Especializado - IBM Microservices
 
 https://www.coursera.org/specializations/ibm-microservices
 
-*** Programa Especializado - Machine Learning with TensorFlow on Google Cloud Platform
+- Programa Especializado - Machine Learning with TensorFlow on Google Cloud Platform
 
 https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 
-** Data analysis
+*** Data analysis
 
-*** Programa Especializado - Análisis de Datos para la toma de decisiones
+- Programa Especializado - Análisis de Datos para la toma de decisiones
 
 https://www.coursera.org/specializations/analisis-datos
 
-*** Programa Especializado - Geographic Information Systems (GIS)
+- Programa Especializado - Geographic Information Systems (GIS)
 
 https://www.coursera.org/specializations/gis
 
-*** Programa Especializado - Data Engineering on Google Cloud Platform
+- Programa Especializado - Data Engineering on Google Cloud Platform
 
 https://www.coursera.org/specializations/gcp-data-machine-learning
 
-** Data visualization
+*** Data visualization
 
-*** Programa Especializado - Data Visualization with Tableau
+- Programa Especializado - Data Visualization with Tableau
 
 https://www.coursera.org/specializations/data-visualization
 
-** Big data
+*** Big data
 
-*** Programa Especializado - Big Data
+- Programa Especializado - Big Data
 
 https://www.coursera.org/specializations/big-data
 
-*** Programa Especializado - Functional Programming in Scala
+- Programa Especializado - Functional Programming in Scala
 
 https://www.coursera.org/specializations/scala
 
-** Internet of things
+*** Internet of things
 
-*** Programa Especializado - An Introduction to Programming the Internet of Things (IOT)
+- Programa Especializado - An Introduction to Programming the Internet of Things (IOT)
 
 https://www.coursera.org/specializations/iot
 
-*** A developer's guide to the Internet of Things (IoT)
+- A developer's guide to the Internet of Things (IoT)
 
 https://www.coursera.org/learn/developer-iot
 
-** Blockchain
+*** Blockchain
 
-*** Programa Especializado - Blockchain
+- Programa Especializado - Blockchain
 
 https://www.coursera.org/specializations/blockchain
 
-*** IBM Blockchain Foundation for Developers
+- IBM Blockchain Foundation for Developers
 
 https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers
 
-* EDX
+** EdX
 
-** Data science
+*** Data science
 
-*** Hardvard data science micromaster
+- Hardvard data science micromaster
 
 https://www.edx.org/es/professional-certificate/harvardx-data-science#courses
 
-*** Foundations of Data Science (Berkeley)
+- Foundations of Data Science (Berkeley)
 
 https://www.edx.org/es/professional-certificate/berkeleyx-foundations-of-data-science#courses
 
-*** Statistics and Data Science (MIT)
+- Statistics and Data Science (MIT)
 
 https://www.edx.org/es/micromasters/mitx-statistics-and-data-science#why-this-program
 
-** Big data
+*** Big data
 
-*** Big Data
+- Big Data
 
 https://www.edx.org/es/micromasters/big-data#courses
 
-** Blockchain
+*** Blockchain
 
-*** Blockchain Fundamentals
+- Blockchain Fundamentals
 
 https://www.edx.org/es/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
-*** FinTech
+- FinTech
 
 https://www.edx.org/es/professional-certificate/hkux-fintech#courses
 
-** Internet of things
+*** Internet of things
 
-*** Internet of Things (IoT)
+- Internet of Things (IoT)
 
 https://www.edx.org/es/micromasters/curtinx-internet-of-things-iot#courses
 
-* UDACITY
+** Udacity
 
-** Data science
+*** Data science
 
-*** Data Analyst Nanodegree Syllabus
+- Data Analyst Nanodegree Syllabus
 
 https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a45f86_dand-syllabus-v7-terms-1/dand-syllabus-v7-terms-1.pdf
+
+* Business
+
+** Trading
+
+*** Algorithmic Trading
+
+https://www.quantstart.com/
+
+*** Forex
+
+https://www.icmarkets.com/?camp=11180
+
+** Digital painting
+
+*** Painter 2018
+
+https://www.painterartist.com/en/
+
+*** A tactil MAC and a great camera will be wonderfull !
+
+* Interesting topics
+
+- Cristianismo primitivo
+- Math
+- Blockchain
+-
