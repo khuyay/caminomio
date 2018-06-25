@@ -1,4 +1,34 @@
-* Academic
+* Academic base
+** Introduction
+*** Introduction to Computer Science and Programming Using Python
+
+https://www.edx.org/es/course/introduction-computer-science-mitx-6-00-1x-11
+
+*** Introduction to Computational Thinking and Data Science
+
+https://www.edx.org/es/course/introduction-computational-thinking-data-mitx-6-00-2x-6
+
+*** Computation Structures - Part 1: Digital Circuits
+
+https://www.edx.org/es/course/computation-structures-part-1-digital-mitx-6-004-1x-0
+
+*** Computation Structures 3: Computer Organization
+
+https://www.edx.org/es/course/computation-structures-3-computer-mitx-6-004-3x-0
+
+*** Software Construction in Java
+
+https://www.edx.org/es/course/software-construction-java-mitx-6-005-1x
+
+*** Advanced Software Construction in Java
+
+https://www.edx.org/es/course/advanced-software-construction-java-mitx-6-005-2x
+
+*** Introduction to Probability: Part 1 - The Fundamentals
+
+https://www.edx.org/es/course/introduction-probability-part-1-mitx-6-041-1x
+
+* Academic specialization
 
 ** Coursera
 
@@ -116,7 +146,7 @@ https://www.edx.org/es/professional-certificate/hkux-fintech#courses
 
 - Internet of Things (IoT)
 
-https://www.edx.org/es/micromasters/curtinx-internet-of-things-iot#courses
+https://www.eIntroduction to Computation and Programming Using Python: With Application to Understanding Data.dx.org/es/micromasters/curtinx-internet-of-things-iot#courses
 
 ** Udacity
 
