@@ -28,6 +28,19 @@ https://www.edx.org/es/course/advanced-software-construction-java-mitx-6-005-2x
 
 https://www.edx.org/es/course/introduction-probability-part-1-mitx-6-041-1x
 
+** Languages
+
+- Python
+- R
+- Scala
+- Golang
+- JavaScript
+- Haskell
+- elisp
+- elixir
+- java
+- clojure
+
 * Academic specialization
 
 ** Coursera
