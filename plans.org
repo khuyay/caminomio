@@ -181,6 +181,20 @@ https://www.quantstart.com/
 
 https://www.icmarkets.com/?camp=11180
 
+**** Graficador
+
+     Visual Chart
+
+**** Broker
+     
+     Intercative Brokers
+
+**** Diario financiero
+     
+     Reuters Financial (Si se puede pagar)
+     www.bloomberg.com/markets/economic-calendar/ (free)
+     http://es.investing.com/economiccalendar/ (free)
+
 ** Digital painting
 
 *** Society6
